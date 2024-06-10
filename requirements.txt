@@ -39,3 +39,4 @@ django-import-export==2.6.1
 django-crispy-forms==1.14.0
 crispy-bootstrap4
 django-select2
+django-pandas
